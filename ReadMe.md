@@ -8,3 +8,11 @@ npm i
 npm update
 npm run deploy
 ```
+
+
+```
+.env file
+
+token = tokenHere
+port = portHere
+```
