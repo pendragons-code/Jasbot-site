@@ -16,3 +16,4 @@ npm run deploy
 token = tokenHere
 port = portHere
 ```
+You can choost to integrate this as part of Jasbot's webserver in the bot itself. I advice against it and if you really wanna avoid using the djs client here, you can use mongoose.
